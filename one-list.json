@@ -1,0 +1,206 @@
+  {
+    "name": "One list to rule them all",
+    "version": "1.0.0.0",
+    "sources": [
+      {
+        "name": "AdGuard DNS filter",
+        "source": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt",
+        "type": "adblock"
+      },
+      {
+        "name": "AdAway Default Blocklist",
+        "source": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_2.txt",
+        "type": "adblock"
+      },
+      {
+        "name": "OISD Blocklist Big",
+        "source": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_27.txt",
+        "type": "adblock"
+      },
+      {
+        "name": "HaGeZi's Pro Blocklist",
+        "source": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_48.txt",
+        "type": "adblock"
+      },
+      {
+        "name": "Steven Black's List",
+        "source": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_33.txt",
+        "type": "adblock"
+      },
+      {
+        "name": "PolishFiltersTeam KADhosts",
+        "source": "https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt",
+        "type": "adblock"
+      },
+      {
+        "name": "Fademind's Spammers",
+        "source": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts",
+        "type": "adblock"
+      },
+      {
+        "name": "WaLLy3K's Blacklist",
+        "source": "https://v.firebog.net/hosts/static/w3kbl.txt",
+        "type": "adblock"
+      },
+      {
+        "name": "LanikSJ's Admiral Anti-Adblock",
+        "source": "https://v.firebog.net/hosts/Admiral.txt",
+        "type": "adblock"
+      },
+      {
+        "name": "Anudeep ND's Blacklist",
+        "source": "https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt",
+        "type": "adblock"
+      },
+      {
+        "name": "Disconnect Ads",
+        "source": "https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt",
+        "type": "adblock"
+      },
+      {
+        "name": "Easylist",
+        "source": "https://v.firebog.net/hosts/Easylist.txt",
+        "type": "adblock"
+      },
+      {
+        "name": "Peter Lowe's Adservers",
+        "source": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimete=plaintext",
+        "type": "adblock"
+      },
+      {
+        "name": "Fademind's Unchecky Ads",
+        "source": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts",
+        "type": "adblock"
+      },
+      {
+        "name": "hostsVN",
+        "source": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts",
+        "type": "adblock"
+      },
+      {
+        "name": "Easyprivacy",
+        "source": "https://v.firebog.net/hosts/Easyprivacy.txt",
+        "type": "adblock"
+      },
+      {
+        "name": "Fabrice Prigent's Ads",
+        "source": "https://v.firebog.net/hosts/Prigent-Ads.txt",
+        "type": "adblock"
+      },
+      {
+        "name": "Fademind's 2o7 Network Trackers",
+        "source": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts",
+        "type": "adblock"
+      },
+      {
+        "name": "Crazy Max's Microsoft Telemetry",
+        "source": "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt",
+        "type": "adblock"
+      },
+      {
+        "name": "Geoffrey Frogeye's First-Party",
+        "source": "https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt",
+        "type": "adblock"
+      },
+      {
+        "name": "DandelionSprout's Anti Malware",
+        "source": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt",
+        "type": "adblock"
+      },
+      {
+        "name": "DigitalSide Threat-Intel",
+        "source": "https://raw.githubusercontent.com/davidonzo/Threat-Intel/refs/heads/master/lists/latestdomains.txt",
+        "type": "adblock"
+      },
+      {
+        "name": "Disconnect Malvertising",
+        "source": "https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt",
+        "type": "adblock"
+      },
+      {
+        "name": "Fabrice Prigent's Cryptojacking",
+        "source": "https://v.firebog.net/hosts/Prigent-Crypto.txt",
+        "type": "adblock"
+      },
+      {
+        "name": "Fademind's Risky Hosts",
+        "source": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts",
+        "type": "adblock"
+      },
+      {
+        "name": "Mandiant APT1 Report",
+        "source": "https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt",
+        "type": "adblock"
+      },
+      {
+        "name": "Phishing Army's Extended Blocklist",
+        "source": "https://phishing.army/download/phishing_army_blocklist_extended.txt",
+        "type": "adblock"
+      },
+      {
+        "name": "Quidsup Malicious",
+        "source": "https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt",
+        "type": "adblock"
+      },
+      {
+        "name": "RPiList Malware",
+        "source": "https://v.firebog.net/hosts/RPiList-Malware.txt",
+        "type": "adblock"
+      },
+      {
+        "name": "RPiList Phishing",
+        "source": "https://v.firebog.net/hosts/RPiList-Phishing.txt",
+        "type": "adblock"
+      },
+      {
+        "name": "Spam404",
+        "source": "https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt",
+        "type": "adblock"
+      },
+      {
+        "name": "Echap's Stalkerware Indicators",
+        "source": "https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts",
+        "type": "adblock"
+      },
+      {
+        "name": "URLhaus Malicious URL blocklist",
+        "source": "https://urlhaus.abuse.ch/downloads/hostfile/",
+        "type": "adblock"
+      },
+      {
+        "name": "Lightswitch05's ads-and-tracking",
+        "source": "https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt",
+        "type": "adblock"
+      },
+      {
+        "name": "HaGeZi's Windows/Office Tracker",
+        "source": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_63.txt",
+        "type": "adblock"
+      },
+      {
+        "name": "HaGeZi's Samsung Tracker Blocklist",
+        "source": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_61.txt",
+        "type": "adblock"
+      },
+      {
+        "name": "Perflyst and Dandelion Sprout's",
+        "source": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_7.txt",
+        "type": "adblock"
+      },
+      {
+        "name": "HaGeZi's Xiaomi Tracker Blocklist",
+        "source": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_60.txt",
+        "type": "adblock"
+      }
+    ],
+    "transformations": [
+      "RemoveComments",
+      "Compress",
+      "RemoveModifiers",
+      "Validate",
+      "Deduplicate",
+      "RemoveEmptyLines",
+      "TrimLines",
+      "InsertFinalNewLine"
+    ]
+  }
