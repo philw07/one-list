@@ -1,0 +1,36 @@
+name: Compile list
+
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  push:
+    branches: [master]
+
+permissions:
+  contents: write
+
+jobs:
+  compile:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Setup node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: '24'
+
+      - name: Install hostlist-compiler
+        run: npm install -g @adguard/hostlist-compiler
+
+      - name: Compile list
+        run: hostlist-compiler -c one-list.json -o one-list.txt
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: 'chore: compile list'
+          file_pattern: 'one-list.txt'
