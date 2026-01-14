@@ -1,7 +1,7 @@
 !
 ! Title: One list to rule them all
 ! Version: 1.0.0.0
-! Last modified: 2026-01-14T03:47:06.537Z
+! Last modified: 2026-01-14T04:46:29.122Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -5486,6 +5486,7 @@ vkcdnservice.appspot.com^
 ||7thvyebqhu7956.cfd^
 ||7uf9rqubcm6ho65wo6onu7x8m.rest^
 ||7wc9vt13qizxvhtze6o4t4u.cyou^
+||7wmkm3837trf1lobgo.cfd^
 ||7wuoy9ijxj53p3rl7xf6mkz.cfd^
 ||7yuic9uyoi1l2uzlxtlnb24.cfd^
 ||80055404.vtt^
@@ -8470,6 +8471,7 @@ vkcdnservice.appspot.com^
 ||avzaqmaoryehd.website^
 ||avzlqdmryrdbj.website^
 ||avzmhurdchosj.space^
+||avzwkkmaqlmyr.top^
 ||awaidxotovdoe.online^
 ||awaitingcoordinatelassitude.com^
 ||awaitinggirl.net^
@@ -20321,6 +20323,7 @@ vkcdnservice.appspot.com^
 ||gpseyeykuwgn.rocks^
 ||gptzluojzguhq.online^
 ||gpuhnwgklkfpq.website^
+||gpuivvoefwp.xyz^
 ||gpviryfjyadhj.website^
 ||gpxmfzexfgnvo.space^
 ||gpyuljehcsmeu.space^
@@ -21969,6 +21972,7 @@ vkcdnservice.appspot.com^
 ||hollowsuspicion.com^
 ||hollymediaa.biz^
 ||holmiatsia.cyou^
+||holtbeparsecrammed.cfd^
 ||homdjzsfhneqr.space^
 ||homeeshbecom.org^
 ||homelynnecked.cfd^
@@ -33907,6 +33911,7 @@ vkcdnservice.appspot.com^
 ||pncdrjirpqcrvc.com^
 ||pncloudfl.com^
 ||pnd.gs^
+||pndqaiqeerahv.com^
 ||pndvhjgixorbq.online^
 ||pneojrqqkydgc.online^
 ||pnfoccvoyssqwx.xyz^
@@ -35989,6 +35994,7 @@ vkcdnservice.appspot.com^
 ||quouwqavbowjf.com^
 ||quppbriocuzkx.website^
 ||quqjslurogcoj.site^
+||qurguoxxl.com^
 ||qurushrhachi.cyou^
 ||quszrmzafudas.online^
 ||qutpswdkdkhbx.online^
@@ -43275,6 +43281,7 @@ vkcdnservice.appspot.com^
 ||ufpcdn.com^
 ||ufrbtrzrinhgx.top^
 ||ufskfcie.cfd^
+||ufthwfxkshxns.online^
 ||uftoxnxd.net^
 ||ufuaaejrupvow.space^
 ||ufvwviscjkake.space^
@@ -43372,6 +43379,7 @@ vkcdnservice.appspot.com^
 ||uitjngvykqxxk.space^
 ||uitmkikekkmko.store^
 ||uiuh2zr6vtr3e1.rest^
+||uiulsijcmimxb.site^
 ||uivcigdsbjakxv.net^
 ||uivsstyggpxpd.website^
 ||uivylgraexanl.site^
@@ -43863,6 +43871,7 @@ vkcdnservice.appspot.com^
 ||unyjmeoaltkrz.space^
 ||unynyimb.com^
 ||uoceijctt.net^
+||uocxajpuhrfyi.website^
 ||uod2quk646.com^
 ||uodywypnuvzwl.online^
 ||uoenkcbxwumqh.xyz^
@@ -45162,6 +45171,7 @@ vkcdnservice.appspot.com^
 ||vpljxmwvkf.com^
 ||vplxmpagryjvl.space^
 ||vplzlxrmkwkop.website^
+||vpnfeqlkmuknp.site^
 ||vpnonly.site^
 ||vppohexv.net^
 ||vpqppkcoszupa.site^
@@ -46440,6 +46450,7 @@ vkcdnservice.appspot.com^
 ||wmxagjqnfhevz.website^
 ||wmxzrccwgpenl.website^
 ||wmzlbovlwbkqj.top^
+||wndfgxbgndxby.website^
 ||wndfziyuixzzr.site^
 ||wneecilp.net^
 ||wngegvxrgpsvm.site^
@@ -50544,6 +50555,7 @@ vkcdnservice.appspot.com^
 ||nudgesplityowza.com^
 ||o-3vq0t1kqukk9pns.xyz^
 ||offendalligatorcoaleven.com^
+||oldgladly.com^
 ||omomku7r4n3vo55rp5k.xyz^
 ||oofpalate.com^
 ||paradefast.com^
@@ -50569,7 +50581,6 @@ vkcdnservice.appspot.com^
 ||sn2rrlv57qpss5w-qk8llu.xyz^
 ||sneakyangrilypromptlyupon.com^
 ||softlyacrossany.com^
-||solemnlybuck.com^
 ||squeakyscofffar.com^
 ||staregrownup.com^
 ||suproderistrai.com^
@@ -52029,18 +52040,6 @@ vkcdnservice.appspot.com^
 ||dzupi9b81okew.cloudfront.net^
 ||dzv1ekshu2vbs.cloudfront.net^
 ||dzxr711a4yw31.cloudfront.net^
-||d12llxoeoqg343.cloudfront.net^
-||d13i9p5451i433.cloudfront.net^
-||d1ly453dyhh7xf.cloudfront.net^
-||d222yr38kqru7v.cloudfront.net^
-||d23obxyzbkncgu.cloudfront.net^
-||d2flxwxbgh2er.cloudfront.net^
-||d2zdzxjekh1km6.cloudfront.net^
-||d2zs9z3hmfhcr6.cloudfront.net^
-||d37j8pfxu2iogi.cloudfront.net^
-||d3edfxwiftnsxy.cloudfront.net^
-||dkhtmc7ko8puc.cloudfront.net^
-||dzqsslysklwgo.cloudfront.net^
 ||anti-adblock.herokuapp.com^
 ||18naked.com^
 ||4link.it^
@@ -98451,6 +98450,7 @@ vkcdnservice.appspot.com^
 ||wz.allianz.fr^
 ||d1udjti6mtxz9q.cloudfront.net^
 |piwik.
+||trafficmanager.anyclip.com^
 ||r.anime-go.cc^
 ||logs.collector.*.cloud.solarwinds.com^
 ||doppler.hulu.com^
@@ -133794,6 +133794,7 @@ analytics-*.aasaam.com
 ||alyssamilano.home.sapo.pt^
 ||alyxm.com^
 ||alzheimerkor.hu^
+||alzorainvyra.com^
 ||am-dewsd.com^
 ||am-pedig.com^
 ||am-stachlhof.de^
@@ -137140,6 +137141,7 @@ analytics-*.aasaam.com
 ||articnws.xyz^
 ||articoamerican.com.br^
 ||articypheron.net^
+||artidrivesys-app.com^
 ||artidrivesys.net^
 ||artifactsworldh.info^
 ||artificepress.com^
@@ -156952,6 +156954,7 @@ analytics-*.aasaam.com
 ||cooltisentrix-30.com^
 ||cooltisentrix-30.net^
 ||cooltisentrix3software.com^
+||cooltisyntrix-2-0.com^
 ||cooltisyntrix-2.com^
 ||cooltisyntrix-20.com^
 ||cooltisyntrix-20.net^
@@ -158202,6 +158205,7 @@ analytics-*.aasaam.com
 ||crescoluce-app.net^
 ||crescoluce-solution.com^
 ||cresonio.com^
+||cresparislaren.com^
 ||cress.mynetav.net^
 ||crest.bana1ity8ed.ru^
 ||crest.c5ech0ut.ru^
@@ -159779,7 +159783,9 @@ analytics-*.aasaam.com
 ||d10zqflh5ol9cq.cloudfront.net^
 ||d11lt3e1lizkg0.cloudfront.net^
 ||d11w14257901lw.cloudfront.net^
+||d12llxoeoqg343.cloudfront.net^
 ||d135aysof2oufc.cloudfront.net^
+||d13i9p5451i433.cloudfront.net^
 ||d14nx4uiqzwnqt.cloudfront.net^
 ||d14p8nzdvd75ly.cloudfront.net^
 ||d166ab3b-91ab-410f-a50d-c702fa55858d.random.tsrv1.ws^
@@ -159812,6 +159818,7 @@ analytics-*.aasaam.com
 ||d1k5ev.go-1-dkamy-5-hev.ru^
 ||d1k5qlz5hbz8am.cloudfront.net^
 ||d1k8m.xyz^
+||d1ly453dyhh7xf.cloudfront.net^
 ||d1mgu8uq9tc68.cloudfront.net^
 ||d1miuq6afqay8u.cloudfront.net^
 ||d1mob6w0cdx3a7.cloudfront.net^
@@ -159839,8 +159846,10 @@ analytics-*.aasaam.com
 ||d20i5e3rqc90ne.cloudfront.net^
 ||d21uwl37pca4oi.cloudfront.net^
 ||d2222t5nvb13ei.cloudfront.net^
+||d222yr38kqru7v.cloudfront.net^
 ||d2295db6.connwa.pages.dev^
 ||d2314eac.solaraweb-alj.pages.dev^
+||d23obxyzbkncgu.cloudfront.net^
 ||d241ujsiy3yht0.cloudfront.net^
 ||d24a1q42xt7oz9.cloudfront.net^
 ||d25vwvprbxda9z.cloudfront.net^
@@ -159858,6 +159867,7 @@ analytics-*.aasaam.com
 ||d2aqqo.blow.harrisretreat.com^
 ||d2au4l2o128joe.cloudfront.net^
 ||d2enepeudd67qf.cloudfront.net^
+||d2flxwxbgh2er.cloudfront.net^
 ||d2g4rjb98r20op.cloudfront.net^
 ||d2ggw6du5pulet.cloudfront.net^
 ||d2gt9oovykfp1z.cloudfront.net^
@@ -159891,7 +159901,9 @@ analytics-*.aasaam.com
 ||d2yt9hj1yu3ly.cloudfront.net^
 ||d2yyd1h5u9mauk.cloudfront.net^
 ||d2yzlvmgs67bxt.cloudfront.net^
+||d2zdzxjekh1km6.cloudfront.net^
 ||d2zjd612oq0w0l.cloudfront.net^
+||d2zs9z3hmfhcr6.cloudfront.net^
 ||d2zur9cc2gf1tx.cloudfront.net^
 ||d3.sina.com.cn^
 ||d3.sinaimg.cn^
@@ -159909,6 +159921,7 @@ analytics-*.aasaam.com
 ||d35eux0j7ldw19.cloudfront.net^
 ||d35fgcharv2shj.cloudfront.net^
 ||d361oi6ppvq2ym.cloudfront.net^
+||d37j8pfxu2iogi.cloudfront.net^
 ||d37xvfvxl95pq8.cloudfront.net^
 ||d389.com^
 ||d38c6492-db8a-468e-9680-b62c6443b8b0.random.tsrv1.ws^
@@ -159923,6 +159936,7 @@ analytics-*.aasaam.com
 ||d3cl7ldsgbm5qu.cloudfront.net^
 ||d3clientsite.com^
 ||d3cy20ss8oxn3o.cloudfront.net^
+||d3edfxwiftnsxy.cloudfront.net^
 ||d3edizycpjjo07.cloudfront.net^
 ||d3f4u3khr0ycep.cloudfront.net^
 ||d3h7.picket-core.ru^
@@ -162898,6 +162912,7 @@ analytics-*.aasaam.com
 ||diffiservo.pro^
 ||diffsplit.icu^
 ||diffusion-prime.fr^
+||dificeportfin.com^
 ||diforconce.com^
 ||difx03.cc^
 ||difx06.cc^
@@ -163921,6 +163936,7 @@ analytics-*.aasaam.com
 ||dkeojdch.com^
 ||dkfodboldstore.com^
 ||dkhb.xyz^
+||dkhtmc7ko8puc.cloudfront.net^
 ||dkilhaqt.com^
 ||dkimob.com.br.patteospfreguesia.com.br^
 ||dkiplay88pro.site^
@@ -166385,6 +166401,7 @@ analytics-*.aasaam.com
 ||dzmuepbe.web.app^
 ||dznews.live^
 ||dzorn.com^
+||dzqsslysklwgo.cloudfront.net^
 ||dzscord.js.org^
 ||dzt3uyxd69um2.cloudfront.net^
 ||dztabase.com^
@@ -174200,6 +174217,7 @@ analytics-*.aasaam.com
 ||finxor-gpt-app.net^
 ||finxor-gpt-gains.com^
 ||finxor-gpt-ki.com^
+||finxor-gpt-platform.com^
 ||finxor-gpt-trading.com^
 ||finxor-gpt.com^
 ||finxor-gpt.net^
@@ -177403,6 +177421,7 @@ analytics-*.aasaam.com
 ||fundarabc.com^
 ||fundaric.com^
 ||fundariumwave-software.com^
+||fundaryxcore-app.com^
 ||fundaspect.com^
 ||fundate.click^
 ||fundbond.click^
@@ -191297,6 +191316,7 @@ analytics-*.aasaam.com
 ||infinityinkl.com^
 ||infinitynexus.top^
 ||infinityprofit-ai.com^
+||infinityprofitai-app.com^
 ||infinityprofitai.com^
 ||infinityprofitai.net^
 ||infinityprojects.net^
@@ -195213,6 +195233,7 @@ analytics-*.aasaam.com
 ||jjxgly.com^
 ||jjyx.com^
 ||jjzhang.com^
+||jk-wave.online^
 ||jk136.com^
 ||jkajyrkjmoljl.top^
 ||jkajyrkjmozeb.top^
@@ -215154,6 +215175,7 @@ analytics-*.aasaam.com
 ||nexusai-app.net^
 ||nexusai-platform.com^
 ||nexusbsolutions.cl^
+||nexuscoreg.info^
 ||nexusfantasy.com^
 ||nexusform-network-platform.com^
 ||nexusform-networksoft.com^
@@ -217118,6 +217140,7 @@ analytics-*.aasaam.com
 ||nuttentool.ddns.net^
 ||nuttlefiberart.com^
 ||nuut.de^
+||nuvantrapex-app.com^
 ||nuvantrapex-soft.com^
 ||nuvantrapexai.com^
 ||nuvantrapexapp.com^
@@ -220168,6 +220191,7 @@ analytics-*.aasaam.com
 ||ordexiabot-tech.com^
 ||ordexiabotapp.com^
 ||ordexiaplus.net^
+||ordexiaprime.net^
 ||ordexiapro.net^
 ||ordexiatitan.net^
 ||ordexiatrader.net^
@@ -234278,6 +234302,7 @@ analytics-*.aasaam.com
 ||quantumdexair.org^
 ||quantumdexair.ru^
 ||quantumdexair3.com^
+||quantumdexair9000.net^
 ||quantumdexairmax-2000.com^
 ||quantumdovonex.net^
 ||quantumedex-20.com^
@@ -244389,6 +244414,7 @@ analytics-*.aasaam.com
 ||sgfinanceflow.com^
 ||sgfinancialservicesholding.fr^
 ||sgh.7yyp.com^
+||sghermonop.rest^
 ||sghsjsghghs090.weebly.com^
 ||sgin12-dhl.mdbgo.io^
 ||sgin6-pdf.mdbgo.io^
@@ -248167,6 +248193,7 @@ analytics-*.aasaam.com
 ||solefex.com^
 ||soleina.fr^
 ||solelyfun.com^
+||solemnlybuck.com^
 ||solendex-chain-ai.com^
 ||solendexchain-app.com^
 ||solendexchain-system.com^
@@ -271401,6 +271428,7 @@ analytics-*.aasaam.com
 ||vrbrothers.com^
 ||vrcclivm.shop^
 ||vrchol-gainluxapp.com^
+||vrcholfinlore-app.com^
 ||vrcholfinspireapp.com^
 ||vrcholgainlux.com^
 ||vrcholgainlux.net^
