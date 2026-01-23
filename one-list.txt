@@ -1,7 +1,7 @@
 !
 ! Title: One list to rule them all
 ! Version: 1.0.0.0
-! Last modified: 2026-01-23T20:25:05.836Z
+! Last modified: 2026-01-23T22:18:17.427Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -145790,7 +145790,6 @@ analytics-*.aasaam.com
 ||afmicro.com^
 ||afms-demo2.tierdata.co.ke^
 ||afn471s.top^
-||afnbpym.com^
 ||afnic-fondation.fr^
 ||afnlriwmya.com^
 ||afol.gov.la^
@@ -782158,9 +782157,9 @@ analytics-*.aasaam.com
 ||xpcpanel.com^
 ||zdalnakontrola.pl^
 ||185.0xC6.234.72^
-||detierra.cl^
+||elimnasir.com^
 ||googdownload.googcdngoogleownload.top^
-||sharecodepro.com^
+||sakuraloyalty.com^
 ||roq.ad^
 ||cav.ai^
 ||epica.ai^
