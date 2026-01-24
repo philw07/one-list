@@ -64,7 +64,7 @@
       },
       {
         "name": "Peter Lowe's Adservers",
-        "source": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimete=plaintext",
+        "source": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=0&mimete=plaintext",
         "type": "adblock"
       },
       {
