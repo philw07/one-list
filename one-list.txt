@@ -1,7 +1,7 @@
 !
 ! Title: One list to rule them all
 ! Version: 1.0.0.0
-! Last modified: 2026-01-24T12:38:59.011Z
+! Last modified: 2026-01-24T13:03:26.867Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -782585,10 +782585,10 @@ analytics-*.aasaam.com
 ||audiovisionworks.com^
 ||duhsv690.cinderpouch.ru^
 ||elimnasir.com^
-||friendsofsclarc.org^
 ||googdownload.googcdngoogleownload.top^
 ||sharecodepro.com^
 ||tx-rf.com^
+||yohin.sg^
 ||roq.ad^
 ||cav.ai^
 ||epica.ai^
