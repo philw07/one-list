@@ -1,7 +1,7 @@
 !
 ! Title: One list to rule them all
 ! Version: 1.0.0.0
-! Last modified: 2026-01-25T22:20:23.467Z
+! Last modified: 2026-01-25T23:09:57.608Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
