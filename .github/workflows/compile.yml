@@ -5,6 +5,7 @@ on:
     - cron: '0 */2 * * *'
   push:
     branches: [master]
+  pull_request:
 
 permissions:
   contents: write
@@ -27,7 +28,13 @@ jobs:
         run: npm install -g @adguard/hostlist-compiler
 
       - name: Compile list
-        run: hostlist-compiler -c one-list.json -o one-list.txt
+        uses: nick-fields/retry@v3
+        with:
+          timeout_minutes: 10
+          retry_on: error
+          max_attenpts: 6
+          retry_wait_seconds: 300
+          command: hostlist-compiler -c one-list.json -o one-list.txt
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v7
