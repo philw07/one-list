@@ -32,7 +32,7 @@ jobs:
         with:
           timeout_minutes: 10
           retry_on: error
-          max_attenpts: 6
+          max_attempts: 6
           retry_wait_seconds: 300
           command: hostlist-compiler -c one-list.json -o one-list.txt
 
