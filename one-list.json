@@ -63,11 +63,6 @@
         "type": "adblock"
       },
       {
-        "name": "Peter Lowe's Adservers",
-        "source": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=0&mimete=plaintext",
-        "type": "adblock"
-      },
-      {
         "name": "Fademind's Unchecky Ads",
         "source": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts",
         "type": "adblock"
