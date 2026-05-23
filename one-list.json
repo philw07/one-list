@@ -8,11 +8,6 @@
         "type": "adblock"
       },
       {
-        "name": "AdAway Default Blocklist",
-        "source": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_2.txt",
-        "type": "adblock"
-      },
-      {
         "name": "OISD Blocklist Big",
         "source": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_27.txt",
         "type": "adblock"
@@ -33,39 +28,14 @@
         "type": "adblock"
       },
       {
-        "name": "Fademind's Spammers",
-        "source": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts",
-        "type": "adblock"
-      },
-      {
         "name": "WaLLy3K's Blacklist",
         "source": "https://v.firebog.net/hosts/static/w3kbl.txt",
-        "type": "adblock"
-      },
-      {
-        "name": "LanikSJ's Admiral Anti-Adblock",
-        "source": "https://v.firebog.net/hosts/Admiral.txt",
         "type": "adblock"
       },
       {
         "name": "Anudeep ND's Blacklist",
         "source": "https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt",
         "type": "hosts"
-      },
-      {
-        "name": "Disconnect Ads",
-        "source": "https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt",
-        "type": "adblock"
-      },
-      {
-        "name": "Easylist",
-        "source": "https://v.firebog.net/hosts/Easylist.txt",
-        "type": "adblock"
-      },
-      {
-        "name": "Fademind's Unchecky Ads",
-        "source": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts",
-        "type": "adblock"
       },
       {
         "name": "hostsVN",
@@ -81,11 +51,6 @@
         "name": "Fabrice Prigent's Ads",
         "source": "https://v.firebog.net/hosts/Prigent-Ads.txt",
         "type": "adblock"
-      },
-      {
-        "name": "Fademind's 2o7 Network Trackers",
-        "source": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts",
-        "type": "hosts"
       },
       {
         "name": "Crazy Max's Microsoft Telemetry",
@@ -108,18 +73,8 @@
         "type": "adblock"
       },
       {
-        "name": "Disconnect Malvertising",
-        "source": "https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt",
-        "type": "adblock"
-      },
-      {
         "name": "Fabrice Prigent's Cryptojacking",
         "source": "https://v.firebog.net/hosts/Prigent-Crypto.txt",
-        "type": "hosts"
-      },
-      {
-        "name": "Fademind's Risky Hosts",
-        "source": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts",
         "type": "hosts"
       },
       {
