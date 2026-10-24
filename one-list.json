@@ -114,7 +114,7 @@
       },
       {
         "name": "URLhaus Malicious URL blocklist",
-        "source": "https://urlhaus.abuse.ch/downloads/hostfile/",
+        "source": "https://curbengh.github.io/malware-filter/urlhaus-filter-agh.txt",
         "type": "hosts"
       },
       {
